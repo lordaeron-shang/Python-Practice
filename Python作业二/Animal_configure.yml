@@ -1,0 +1,14 @@
+cat:
+  name: 大橘
+  color: 橘色
+  age: 3
+  gender: 母
+  hair: 短毛
+
+dog:
+  name: 小灰
+  color: 灰色
+  age: 5
+  gender: 公
+  hair: 长毛
+
